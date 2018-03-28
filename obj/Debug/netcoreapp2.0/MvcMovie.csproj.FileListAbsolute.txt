@@ -20,3 +20,14 @@ C:\Users\Zach\Downloads\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.Assem
 C:\Users\Zach\Downloads\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.AssemblyInfo.cs
 C:\Users\Zach\Downloads\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.dll
 C:\Users\Zach\Downloads\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.pdb
+C:\Users\Michael\Source\Repos\ZLLab06\bin\Debug\netcoreapp2.0\MvcMovie.deps.json
+C:\Users\Michael\Source\Repos\ZLLab06\bin\Debug\netcoreapp2.0\MvcMovie.runtimeconfig.json
+C:\Users\Michael\Source\Repos\ZLLab06\bin\Debug\netcoreapp2.0\MvcMovie.runtimeconfig.dev.json
+C:\Users\Michael\Source\Repos\ZLLab06\bin\Debug\netcoreapp2.0\MvcMovie.dll
+C:\Users\Michael\Source\Repos\ZLLab06\bin\Debug\netcoreapp2.0\MvcMovie.pdb
+C:\Users\Michael\Source\Repos\ZLLab06\obj\Debug\netcoreapp2.0\MvcMovie.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Source\Repos\ZLLab06\obj\Debug\netcoreapp2.0\MvcMovie.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Source\Repos\ZLLab06\obj\Debug\netcoreapp2.0\MvcMovie.AssemblyInfoInputs.cache
+C:\Users\Michael\Source\Repos\ZLLab06\obj\Debug\netcoreapp2.0\MvcMovie.AssemblyInfo.cs
+C:\Users\Michael\Source\Repos\ZLLab06\obj\Debug\netcoreapp2.0\MvcMovie.dll
+C:\Users\Michael\Source\Repos\ZLLab06\obj\Debug\netcoreapp2.0\MvcMovie.pdb

@@ -43,9 +43,11 @@ namespace MvcMovie.Controllers
         }
 
         // GET: Reviews/Create
-        public IActionResult Create()
+        public IActionResult Create(int id)
         {
-            return View();
+            // pass in movie id when adding a review and attach it to new Review object
+            var review = new Review { MovieID = id };
+            return View(review);
         }
 
         // POST: Reviews/Create
@@ -53,8 +55,9 @@ namespace MvcMovie.Controllers
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("ID,Reviewer,Comment")] Review review)
+        public async Task<IActionResult> Create([Bind("MovieID,Reviewer,Comment")] Review review)
         {
+            // Removed ID from Bind so it doesn't get overridden by route parameter id
             if (ModelState.IsValid)
             {
                 _context.Add(review);
